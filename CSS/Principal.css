@@ -1,0 +1,66 @@
+
+	.Top{
+		padding-top: 1%;
+		text-align: center;
+		background: inherit;
+	}
+	.Pie{
+		text-align: right;
+		background: transparent;
+
+		height: 50px;
+		padding-left: 10%;
+		padding-right: 10%;
+	}
+	.Main{
+		width:50%;
+		height: 100%;
+		margin: 5px 1px;
+
+		border: inherit; 
+		border-color: green;
+
+		text-align: justify;
+
+		font-family: Times, arial, hervetica;
+
+		background: #E0FFE5;
+	}
+	.Div1{
+		padding-left: inherit;
+
+		border: inherit;
+		border-color: red;
+	}
+	.Menu1{
+		float: left;
+		border-bottom-left-radius: all;
+		width: 20%;
+
+		text-align: justify;
+
+		border-color: red;
+		padding-left: 5%;
+	}
+	body{
+		background-color: white;
+	}
+	hr{
+		background-color: gray; height: 2px; border: 0;
+	}
+
+	a{
+		text-decoration: none;
+		color: #484848;
+	}
+	.Tabla1{
+		text-align: center;
+	}
+	.Tabla2{
+		text-align: center;
+	}
+	.Nom_Imagen{
+		font-family: Arial, hervetica;
+		font-size: large;
+		font-weight: bold;
+	}

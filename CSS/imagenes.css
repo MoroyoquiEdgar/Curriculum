@@ -1,0 +1,23 @@
+#Image1{
+	padding-left: 5px;
+	padding-right: 5px;
+
+	width: 100%;
+}
+
+.Zoom:hover{
+	transform: scale(1.03);
+}
+.Zoom{
+	transition: transform 0.3s;
+}
+.Nom_Imagen{
+	font-family: Times, arial, hervetica;
+	font-size: large;
+}
+
+.Perfil{
+	width:18%;
+	float: right;
+	padding-left: 1rem;
+}
